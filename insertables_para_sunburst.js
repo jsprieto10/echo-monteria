@@ -1,7 +1,7 @@
 var profundidad_1 = `
 <div id="quitame" style="height: 100%; width: 100%">
     <div style="position: absolute; width: 30vw; top: 40px; left: 0;">
-        <img id="titulo_primera_pregunta" src="assets/pregunta-cartagena.png" style="border:0px solid black; margin: auto auto 0 0">  
+        <img id="titulo_primera_pregunta" src="assets/monteria ECHO.svg" style="border:0px solid black; margin: auto auto 0 0">  
     </div>
     <div id="2r" class="row" style="height: 30%">
 
@@ -498,7 +498,7 @@ function avisar() {
 
                 $("#nav").append(`<ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <img id="hablamed" style="padding-right: 70px;" class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_de_Cartagena_de_Indias.svg/1200px-Escudo_de_Cartagena_de_Indias.svg.png">
+                    <img id="hablamed" style="padding-right: 70px;" class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Universiordoba_Colombia.svg/1200px-Universiordoba_Colombia.svg.png">
                 </li>
                 </ul>`);
 
@@ -524,7 +524,7 @@ $('#logos').click(d => {
 
                 $("#nav").append(`<ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <img id="hablamed" style="padding-right: 70px;" class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_de_Cartagena_de_Indias.svg/1200px-Escudo_de_Cartagena_de_Indias.svg.png">
+                    <img id="hablamed" style="padding-right: 70px;" class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Universiordoba_Colombia.svg/1200px-Universiordoba_Colombia.svg.png">
                 </li>
                 </ul>`);
 
@@ -557,7 +557,7 @@ $('#btn_start').click(d => {
 
                 $("#nav").append(`<ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <img id="hablamed" style="padding-right: 70px;" class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_de_Cartagena_de_Indias.svg/1200px-Escudo_de_Cartagena_de_Indias.svg.png">
+                    <img id="hablamed" style="padding-right: 70px;" class="logos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Universiordoba_Colombia.svg/1200px-Universiordoba_Colombia.svg.png">
                 </li>
                 </ul>`);
                 document.getElementById('loading_img').remove();
